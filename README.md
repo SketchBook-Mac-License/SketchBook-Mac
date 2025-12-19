@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/sketchbook/overview/sketchbook-social.jpg" width="1080" alt="SketchBook Screenshot"/>  
+  <img src="https://insmac.org/uploads/posts/2017-11/1510610266_sketchbook-pro_03.jpg" width="1080" alt="SketchBook Screenshot"/>  
 </div>  
 
 <br>  
